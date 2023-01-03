@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "692037629008",
+    "firebase_url": "https://bloodshare40.firebaseio.com",
+    "project_id": "bloodshare40",
+    "storage_bucket": "bloodshare40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692037629008:android:ab65c4b1f8f942a6c10d55",
+        "android_client_info": {
+          "package_name": "com.example.bloodshare4.bloodshare40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "692037629008-iia29tn3mo1jet04peh5nef7h1nis7ik.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloodshare4.bloodshare40",
+            "certificate_hash": "0f8ded749e904cde9ed4bd717b26af6068778e26"
+          }
+        },
+        {
+          "client_id": "692037629008-ck9p3gqt729e5ipfev2d74f6gog3iham.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloodshare4.bloodshare40",
+            "certificate_hash": "72c4b5fae772bc73138ae286773de4a01daa0d23"
+          }
+        },
+        {
+          "client_id": "692037629008-c0uu05hhqh7miep2q9fl0k19ft66e7qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAsxdcra526lRMPIlR5nN8_Qw9Xu3_mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "692037629008-c0uu05hhqh7miep2q9fl0k19ft66e7qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
